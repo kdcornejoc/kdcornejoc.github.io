@@ -1,43 +1,10 @@
 
 TITLE: 
-Magazine - Blog Free Responsive HTML5 template
+Website
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
+Kenyi Cornejo
+Website: https://kdcornejoc.github.io/
+Twitter: https://twitter.com/cornejo_kenyi
 
 CREDITS:
-
-Bootstrap
-http://getbootstrap.com/
-
-jQuery
-http://jquery.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Icomoon
-https://icomoon.io/app/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Demo Images:
-http://unsplash.com
